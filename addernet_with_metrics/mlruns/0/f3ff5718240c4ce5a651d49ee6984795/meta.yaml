@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/AdderNet/metrics/mlruns/0/f3ff5718240c4ce5a651d49ee6984795/artifacts
+end_time: 1731646281608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3ff5718240c4ce5a651d49ee6984795
+run_name: dapper-koi-348
+run_uuid: f3ff5718240c4ce5a651d49ee6984795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731646279521
+status: 3
+tags: []
+user_id: ubuntu

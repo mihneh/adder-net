@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/AdderNet/addernet_with_metrics/mlruns/525673754366942165
+creation_time: 1731648217986
+experiment_id: '525673754366942165'
+last_update_time: 1731648217986
+lifecycle_stage: active
+name: DenoisingExperiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/AdderNet/metrics/mlruns/0/774164b7a0f4419991f5f0b1ea276dbc/artifacts
+end_time: 1731647234947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 774164b7a0f4419991f5f0b1ea276dbc
+run_name: defiant-shrew-297
+run_uuid: 774164b7a0f4419991f5f0b1ea276dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731647232921
+status: 3
+tags: []
+user_id: ubuntu

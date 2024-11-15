@@ -1,0 +1,4 @@
+input_dim: 16000
+sample_rate: 16000
+experiment_name: simple_denoising
+model_type: SimpleLinear

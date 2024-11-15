@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/AdderNet/metrics/mlruns/0/3f29722bd4344f4eab5afcea70c4199a/artifacts
+end_time: 1731649732622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f29722bd4344f4eab5afcea70c4199a
+run_name: overjoyed-eel-46
+run_uuid: 3f29722bd4344f4eab5afcea70c4199a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731649728257
+status: 3
+tags: []
+user_id: ubuntu
