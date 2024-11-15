@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/AdderNet/metrics/mlruns/0/6296db79a154449cbd60c97ccbbb45a5/artifacts
+end_time: 1731646078582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6296db79a154449cbd60c97ccbbb45a5
+run_name: unleashed-stag-893
+run_uuid: 6296db79a154449cbd60c97ccbbb45a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731646076230
+status: 3
+tags: []
+user_id: ubuntu

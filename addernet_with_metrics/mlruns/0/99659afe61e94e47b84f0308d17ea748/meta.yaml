@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/AdderNet/metrics/mlruns/0/99659afe61e94e47b84f0308d17ea748/artifacts
+end_time: 1731645657229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99659afe61e94e47b84f0308d17ea748
+run_name: useful-squirrel-531
+run_uuid: 99659afe61e94e47b84f0308d17ea748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731645654640
+status: 3
+tags: []
+user_id: ubuntu

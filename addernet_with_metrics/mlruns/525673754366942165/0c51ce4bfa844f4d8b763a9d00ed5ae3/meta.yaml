@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/AdderNet/addernet_with_metrics/mlruns/525673754366942165/0c51ce4bfa844f4d8b763a9d00ed5ae3/artifacts
+end_time: 1731648229846
+entry_point_name: ''
+experiment_id: '525673754366942165'
+lifecycle_stage: active
+run_id: 0c51ce4bfa844f4d8b763a9d00ed5ae3
+run_name: SimpleDenoisingModel
+run_uuid: 0c51ce4bfa844f4d8b763a9d00ed5ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731648225372
+status: 3
+tags: []
+user_id: ubuntu

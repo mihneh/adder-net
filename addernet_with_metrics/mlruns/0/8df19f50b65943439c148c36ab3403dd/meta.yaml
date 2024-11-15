@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/AdderNet/metrics/mlruns/0/8df19f50b65943439c148c36ab3403dd/artifacts
+end_time: 1731649790479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8df19f50b65943439c148c36ab3403dd
+run_name: sassy-bass-677
+run_uuid: 8df19f50b65943439c148c36ab3403dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731649788549
+status: 3
+tags: []
+user_id: ubuntu
